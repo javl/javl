@@ -1,6 +1,9 @@
+[![javl's GitHub stats](https://github-readme-stats.vercel.app/api?username=javl&theme=default&custom_title=javl%27s%20Github%20Stats&show_icons=true&count_private=true)](https://github.com/javl)
 
-[![javl's GitHub stats](https://github-readme-stats.vercel.app/api?username=javl&theme=default&custom_title=javl%27s%20Github%20Stats&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+##### Find examples of my projects over at [my website](https://jaspervanloenen.com), Twitter or Instagram:
 
+<a href="https://twitter.com/jaspervanloenen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaspervanloenen" height="30" width="40" /></a>
+<a href="https://instagram.com/jaspervanloenen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaspervanloenen" height="30" width="40" /></a>
 
 <!--
 **javl/javl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
