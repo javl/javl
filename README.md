@@ -1,4 +1,6 @@
-### Hi there 👋
+
+[![javl's GitHub stats](https://github-readme-stats.vercel.app/api?username=javl&theme=default&custom_title=javl%27s%20Github%20Stats&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **javl/javl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
