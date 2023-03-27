@@ -1,21 +1,11 @@
-[![javl's GitHub stats](https://github-readme-stats.vercel.app/api?username=javl&theme=default&custom_title=javl%27s%20Github%20Stats&show_icons=true&count_private=true)](https://github.com/javl)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=javl&theme=default&custom_title=javl%27s%20Github%20Stats&show_icons=true&count_private=true" />
 
-##### Find examples of my projects over at [my website](https://jaspervanloenen.com), Twitter or Instagram:
+You can find my projects over at:
 
-<a href="https://twitter.com/jaspervanloenen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaspervanloenen" height="30" width="40" /></a>
-<a href="https://instagram.com/jaspervanloenen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaspervanloenen" height="30" width="40" /></a>
+* 🌐 [my website](https://jaspervanloenen.com)
+* <a href="https://twitter.com/jaspervanloenen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaspervanloenen" height="15" width="20" /> Twitter</a>
+* <a href="https://instagram.com/jaspervanloenen.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaspervanloenen" height="15" width="20"/> Instagram</a>
 
-<!--
-**javl/javl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in supporting my open source projects? Feel free to become a sponsor.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/javl)
