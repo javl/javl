@@ -1,6 +1,6 @@
 # Hi 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=javl&theme=default&custom_title=javl%27s%20Github%20Stats&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=javl&theme=default&custom_title=javl%27s%20Github%20Stats&show_icons=true&count_private=false" />
 
 You can find my projects over at:
 
