@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=javl&theme=default&custom_title=javl%27s%20Github%20Stats&show_icons=true&count_private=false" /> // -->
 
-You can find my projects over at:
+I'm a Dutch artist working with open source code and technology. You can find my projects over at:
 
 <a href="https://jaspervanloenen.com" target="_blank"><img align="center" src="https://github.com/javl/javl/blob/main/website.png?raw=true" width="32" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My website</a>
 
@@ -12,7 +12,7 @@ You can find my projects over at:
 
 <a href="https://bsky.app/profile/jaspervanloenen.bsky.social" target="_blank"><img align="center" src="https://github.com/javl/javl/blob/main/bluesky.png?raw=true" alt="jaspervanloenen" width="32"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bluesky</a>
 
-<a href="https://twitter.com/jaspervanloenen" target="blank"><img align="center" src="https://github.com/javl/javl/blob/main/twitter.png?raw=true" alt="jaspervanloenen" width="32" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Twitter</a>
+<a href="https://twitter.com/jaspervanloenen" target="_blank"><img align="center" src="https://github.com/javl/javl/blob/main/twitter.png?raw=true" alt="jaspervanloenen" width="32" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Twitter</a>
 
 
 Interested in supporting my open source projects? Feel free to become a (one-time) sponsor!
